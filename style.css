@@ -9,6 +9,7 @@ h1, h2, h5 {
 }
 
 .card {
+  background-color: wheat ;
   border-radius: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -82,3 +83,6 @@ h1, h2, h5 {
     opacity: 1;
 }
 
+body {
+  background-color: antiquewhite;
+}
